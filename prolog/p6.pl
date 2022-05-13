@@ -1,0 +1,1 @@
+is_palindrome(A) :- reverse(A, A).
